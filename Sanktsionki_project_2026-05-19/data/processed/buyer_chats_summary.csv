@@ -1,0 +1,5 @@
+﻿metric,mention_count,min_rub,median_rub,mean_rub,max_rub,top_country,top_country_mentions
+delivery,9,1700,2400.0,2488.9,4100,Китай,3.0
+commission,8,1000,1350.0,1362.5,1800,Китай,3.0
+total,5,14500,18900.0,18660.0,22900,Турция,2.0
+customs,3,900,1300.0,1266.7,1600,,

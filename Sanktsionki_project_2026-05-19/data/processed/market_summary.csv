@@ -1,0 +1,17 @@
+﻿query_slug,query_label,source_name,source_type,offer_count,min_price_rub,median_price_rub,mean_price_rub,max_price_rub,avg_match_score,discount_share,price_spread_rub,query_best_source
+adidas-samba,adidas samba,Lamoda,static,3,5999,10499.0,9499.0,11999,1.0,100.0,6000,True
+adidas-samba,adidas samba,CDEK.Shopping,api,4,6316,7773.5,7685.5,8879,1.0,0.0,2563,False
+adidas-samba,adidas samba,Sneakerhead,static,4,19490,20990.0,20990.0,22490,1.0,0.0,3000,False
+nike-air-force-1,air force 1,Avito,dynamic,4,7490,7990.0,7990.0,8490,1.0,0.0,1000,True
+nike-air-force-1,air force 1,CDEK.Shopping,api,4,8813,11194.0,10857.2,12228,1.0,0.0,3415,False
+nike-air-force-1,air force 1,Lamoda,static,4,14819,17095.0,17002.0,18999,1.0,75.0,4180,False
+nike-air-force-1,air force 1,Sneakerhead,static,4,16990,21990.0,20990.0,22990,1.0,0.0,6000,False
+nike-air-max-90,air max 90,CDEK.Shopping,api,4,10479,16293.5,26137.5,61484,1.0,0.0,51005,True
+nike-air-max-90,air max 90,Lamoda,static,3,15594,17599.0,18397.3,21999,1.0,66.7,6405,False
+nike-air-max-90,air max 90,Sneakerhead,static,3,18990,24490.0,23156.7,25990,1.0,0.0,7000,False
+new-balance-530,new balance 530,CDEK.Shopping,api,4,8055,8632.0,8768.5,9755,1.0,0.0,1700,True
+new-balance-530,new balance 530,Sneakerhead,static,3,15990,20000.0,19330.0,22000,1.0,0.0,6010,False
+new-balance-530,new balance 530,Lamoda,static,2,18990,18994.5,18994.5,18999,1.0,0.0,9,False
+new-balance-574,new balance 574,CDEK.Shopping,api,4,6452,9950.0,9860.5,13090,1.0,25.0,6638,True
+new-balance-574,new balance 574,Lamoda,static,1,16999,16999.0,16999.0,16999,1.0,0.0,0,False
+new-balance-574,new balance 574,Sneakerhead,static,4,17990,19490.0,19240.0,19990,1.0,0.0,2000,False

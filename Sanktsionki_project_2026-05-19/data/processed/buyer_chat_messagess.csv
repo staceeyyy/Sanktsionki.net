@@ -1,0 +1,26 @@
+﻿message_id,date,author,source_file,metric,amount_rub,country_name,brand,text_excerpt
+1,2026-05-10 11:00:00,buyer_admin,sample_buyer_chat.json,commission,1200,Китай,Nike,"Nike Air Force 1 из Китая: комиссия 1200 руб, доставка 1800 руб, под ключ 14500."
+1,2026-05-10 11:00:00,buyer_admin,sample_buyer_chat.json,delivery,1800,Китай,Nike,"Nike Air Force 1 из Китая: комиссия 1200 руб, доставка 1800 руб, под ключ 14500."
+1,2026-05-10 11:00:00,buyer_admin,sample_buyer_chat.json,total,14500,Китай,Nike,"Nike Air Force 1 из Китая: комиссия 1200 руб, доставка 1800 руб, под ключ 14500."
+2,2026-05-10 11:14:00,buyer_admin,sample_buyer_chat.json,commission,1500,Турция,Adidas,"Adidas Samba из Турции. Байерский fee 1500, shipping 2200, total 17200."
+2,2026-05-10 11:14:00,buyer_admin,sample_buyer_chat.json,delivery,2200,Турция,Adidas,"Adidas Samba из Турции. Байерский fee 1500, shipping 2200, total 17200."
+2,2026-05-10 11:14:00,buyer_admin,sample_buyer_chat.json,total,17200,Турция,Adidas,"Adidas Samba из Турции. Байерский fee 1500, shipping 2200, total 17200."
+3,2026-05-11 09:25:00,client_anna,sample_buyer_chat.json,commission,1300,Южная Корея,New Balance,А по New Balance 530 какая доставка из Кореи? Видела 2600 руб и выкуп 1300.
+3,2026-05-11 09:25:00,client_anna,sample_buyer_chat.json,delivery,2600,Южная Корея,New Balance,А по New Balance 530 какая доставка из Кореи? Видела 2600 руб и выкуп 1300.
+4,2026-05-11 10:40:00,buyer_admin,sample_buyer_chat.json,commission,1800,,Nike,"По Jordan комиссия 1800 руб, логистика 3200 руб, таможня 900 руб."
+4,2026-05-11 10:40:00,buyer_admin,sample_buyer_chat.json,delivery,3200,,Nike,"По Jordan комиссия 1800 руб, логистика 3200 руб, таможня 900 руб."
+4,2026-05-11 10:40:00,buyer_admin,sample_buyer_chat.json,customs,900,,Nike,"По Jordan комиссия 1800 руб, логистика 3200 руб, таможня 900 руб."
+5,2026-05-12 13:10:00,buyer_admin,sample_buyer_chat.json,delivery,4100,США,Usa,"USA route дороже: shipping 4100, total 22900, но оригинал приходит быстрее."
+5,2026-05-12 13:10:00,buyer_admin,sample_buyer_chat.json,total,22900,США,Usa,"USA route дороже: shipping 4100, total 22900, но оригинал приходит быстрее."
+6,2026-05-12 16:30:00,client_maria,sample_buyer_chat.json,commission,1000,Китай,Adidas,Для Adidas Gazelle из Китая мне насчитали комиссия 1000 и карго 1700.
+6,2026-05-12 16:30:00,client_maria,sample_buyer_chat.json,delivery,1700,Китай,Adidas,Для Adidas Gazelle из Китая мне насчитали комиссия 1000 и карго 1700.
+7,2026-05-13 09:00:00,buyer_admin,sample_buyer_chat.json,commission,1400,ОАЭ,New Balance,"New Balance 574 из ОАЭ: fee 1400, доставка 2500, под ключ 18900."
+7,2026-05-13 09:00:00,buyer_admin,sample_buyer_chat.json,delivery,2500,ОАЭ,New Balance,"New Balance 574 из ОАЭ: fee 1400, доставка 2500, под ключ 18900."
+7,2026-05-13 09:00:00,buyer_admin,sample_buyer_chat.json,total,18900,ОАЭ,New Balance,"New Balance 574 из ОАЭ: fee 1400, доставка 2500, под ключ 18900."
+8,2026-05-13 12:45:00,client_igor,sample_buyer_chat.json,commission,1100,Китай,Nike,"Если брать Nike Dunk через 1688, выкуп 1100 руб и логистика 1900 руб."
+8,2026-05-13 12:45:00,client_igor,sample_buyer_chat.json,delivery,1900,Китай,Nike,"Если брать Nike Dunk через 1688, выкуп 1100 руб и логистика 1900 руб."
+9,2026-05-14 15:10:00,buyer_admin,sample_buyer_chat.json,customs,1300,,Таможенный,Таможенный сбор по крупным заказам обычно 1300-1600 руб.
+9,2026-05-14 15:10:00,buyer_admin,sample_buyer_chat.json,customs,1600,,Таможенный,Таможенный сбор по крупным заказам обычно 1300-1600 руб.
+10,2026-05-15 18:20:00,client_pavel,sample_buyer_chat.json,commission,1600,Турция,Nike,"Сейчас по Air Max 90 из Турции total выходит 19800, комиссия 1600, доставка 2400."
+10,2026-05-15 18:20:00,client_pavel,sample_buyer_chat.json,delivery,2400,Турция,Nike,"Сейчас по Air Max 90 из Турции total выходит 19800, комиссия 1600, доставка 2400."
+10,2026-05-15 18:20:00,client_pavel,sample_buyer_chat.json,total,19800,Турция,Nike,"Сейчас по Air Max 90 из Турции total выходит 19800, комиссия 1600, доставка 2400."

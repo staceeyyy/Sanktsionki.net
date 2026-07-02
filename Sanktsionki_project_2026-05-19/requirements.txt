@@ -1,0 +1,8 @@
+beautifulsoup4>=4.12
+dash>=2.18
+google-auth>=2.40
+gspread>=6.1
+pandas>=2.2
+plotly>=5.24
+requests>=2.32
+selenium>=4.39

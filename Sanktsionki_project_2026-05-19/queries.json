@@ -1,0 +1,32 @@
+[
+  {
+    "slug": "nike-air-force-1",
+    "label": "air force 1",
+    "brand": "Nike",
+    "category": "sneakers"
+  },
+  {
+    "slug": "nike-air-max-90",
+    "label": "air max 90",
+    "brand": "Nike",
+    "category": "sneakers"
+  },
+  {
+    "slug": "adidas-samba",
+    "label": "adidas samba",
+    "brand": "Adidas",
+    "category": "sneakers"
+  },
+  {
+    "slug": "new-balance-530",
+    "label": "new balance 530",
+    "brand": "New Balance",
+    "category": "sneakers"
+  },
+  {
+    "slug": "new-balance-574",
+    "label": "new balance 574",
+    "brand": "New Balance",
+    "category": "sneakers"
+  }
+]

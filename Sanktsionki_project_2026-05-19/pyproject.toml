@@ -1,0 +1,35 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "sanktsionki"
+version = "0.1.0"
+description = "Course project for analyzing prices of departed fashion brands in the Russian market."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "beautifulsoup4>=4.12",
+    "dash>=2.18",
+    "google-auth>=2.40",
+    "gspread>=6.1",
+    "pandas>=2.2",
+    "plotly>=5.24",
+    "requests>=2.32",
+    "selenium>=4.39",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8.3"]
+
+[project.scripts]
+sanktsionki-collect = "sanktsionki.cli:collect_main"
+sanktsionki-dashboard = "sanktsionki.cli:dashboard_main"
+sanktsionki-export-sheets = "sanktsionki.cli:export_sheets_main"
+sanktsionki-analyze-buyer-chats = "sanktsionki.cli:analyze_buyer_chats_main"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
